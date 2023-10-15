@@ -1,3 +1,3 @@
 # UTS
 
-This is about UTS assignments.
+This repository is for Assignments.
